@@ -10,3 +10,7 @@ I have included a few backgrounds in the _extra folder, just move and rename.
 In the layouts folder, (./assets/layouts) there are the two layouts (horizontal, used by snes/famicom/n64) 
 and square (literally everything else) there is also 2 subfolders (meta and nometa). If you want an image and no metadata
 move the existing .xml files into the 'meta' folder and replace them with the .xml files from the 'no meta' folder.
+
+---splashscreens---
+
+There are two splashscreens included in the _extra folder
