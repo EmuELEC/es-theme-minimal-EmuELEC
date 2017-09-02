@@ -1,6 +1,16 @@
 <!--METADATA VERSION-->
 <theme>
 	<formatVersion>4</formatVersion>
+	<view name="detailed">
+		
+		<image name="md_image">
+			<origin>0 0</origin>
+			<pos>0.160 0.124</pos>
+			<maxSize>0.273 0.471</maxSize>
+		</image>
+		
+	</view>
+
 	<view name="detailed, video">
 
 		<image name="filter" extra="true">
@@ -25,12 +35,6 @@
 			<origin>0 0</origin>
 			<path>./../../assets/bg.png</path>
 			<zIndex>0</zIndex>
-		</image>
-		
-		<image name="md_image">
-			<origin>0 0</origin>
-			<pos>0.160 0.124</pos>
-			<maxSize>0.273 0.471</maxSize>
 		</image>
 		
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate">
