@@ -158,6 +158,12 @@ license: creative commons CC-BY-NC-SA
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0 0</origin>
 		</textlist>
+		
+		<image name="md_image">
+			<origin>0 0</origin>
+			<pos>1 1</pos>
+			<maxSize>0.01 0.01</maxSize>
+		</image>
 
 	</view>
 	
