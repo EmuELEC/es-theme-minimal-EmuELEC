@@ -1,0 +1,10 @@
+<theme>
+   <formatVersion>4</formatVersion>
+   <include>./../theme.xml</include>
+   <include>./../assets/layouts/square_layout.xml</include>
+   <view name="system">
+      <image name="logo">
+         <path>./logo.svg</path>
+      </image>
+   </view>
+</theme>
