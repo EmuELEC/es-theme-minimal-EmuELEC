@@ -4,8 +4,8 @@
 	<view name="detailed">
 		
 		<image name="md_image">
-			<origin>0 0</origin>
-			<pos>0.160 0.124</pos>
+			<origin>0.5 0.5</origin>
+			<pos>0.2965 0.3595</pos>
 			<maxSize>0.273 0.471</maxSize>
 		</image>
 		
@@ -13,13 +13,13 @@
 
 	<view name="detailed, video">
 
-		<image name="filter" extra="true">
+				<!--<image name="filter" extra="true">
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../../assets/gamelist_overlay.png</path>
+			<path>./assets/system_overlay.png</path>
 			<zIndex>1</zIndex>
-		</image>
+		</image>-->
 		
 		<image name="logo">
 			<pos>1 1</pos>
